@@ -1,0 +1,19 @@
+{
+  "name": "Chat Friends",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Semih Duman <info@semihduman.net>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "char",
+    "nodejs",
+    "socket.io"
+  ],
+  "homepage": "https://github.com/semihdumannn/Chat-NodeJs",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.7.2"
+  }
+}
