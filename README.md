@@ -13,7 +13,7 @@ Soket.io &amp; NodeJs  Chat Application
 
 Create a file name ".env" in the root directory and  fill its contents follows.
 
-```
+```ruby
 DB_ STRING = XXX
 
 GOOGLE_LOGIN_CLIENT_ID = XXX
