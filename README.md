@@ -1,7 +1,7 @@
 # Chat-NodeJs
 Soket.io &amp; NodeJs  Chat Application
 
-#How to İnstall
+# How to İnstall
 ## Clone repository and install dependencies
 `https://github.com/semihdumannn/Chat-NodeJs.git`
 
